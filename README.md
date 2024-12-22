@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjali7566&show_icons=true&theme=radical)
 
-## 🏆 Top Repositories
-
-- [Project 1](https://github.com/Anjali7566/Grocery) - A brief description of Project 1.
-- [Project 2](https://github.com/Anjali7566/FarmX) - A brief description of Project 2.
 
 ## 📫 Connect with Me
 
