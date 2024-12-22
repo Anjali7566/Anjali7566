@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anjali/)
-- [Twitter](https://twitter.com/anjali)
+- [LinkedIn](https://www.linkedin.com/in/anjali-kushwaha-a2a654286)
 
 Thank you for visiting my profile, and feel free to reach out to me!
