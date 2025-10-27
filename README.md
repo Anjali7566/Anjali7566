@@ -1,28 +1,44 @@
-# Hi there, I'm Anjali! 👋
+# Hi there, I'm Anjali! 👋  
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, open-source contributions, and continuous learning. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate developer with interests in **web development**, **open-source contributions**, and **continuous learning**.  
 
-## 🚀 About Me
+---
 
-- 🌱 I’m currently learning advanced JavaScript frameworks.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about web development, JavaScript, and Java.
-- 📫 How to reach me: mailto:anjali7566@gmail.com
-- ⚡ Fun fact: I love hiking and exploring new places.
+## 🚀 About Me  
+- 🌱 I’m currently learning **advanced JavaScript frameworks** (React, Next.js).  
+- 👯 I’m looking to collaborate on **exciting open-source projects**.  
+- 💬 Ask me about **Web Development, JavaScript, and Java**.  
+- 📫 Reach me at **[anjali7566@gmail.com](mailto:anjali7566@gmail.com)**  
+- ⚡ Fun fact: I love **hiking and exploring new places**.  
 
-## 🛠️ Languages and Tools
+---
 
-- **Languages**: JavaScript,SQL, HTML, CSS, Java
-- **Frameworks/Libraries**: ReactJs.
-- **Tools**: Git, Docker, VS Code.
+## 🛠️ Languages and Tools  
 
-## 📈 GitHub Stats
+**Languages:** JavaScript, SQL, HTML, CSS, Java  
+**Frameworks/Libraries:** React.js  
+**Tools:** Git, Docker, VS Code  
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjali7566&show_icons=true&theme=radical)
+---
 
+## 🏅 My Holopin Badges  
 
-## 📫 Connect with Me
+[![An image of @anjali7566's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjali7566)](https://holopin.io/@anjali7566)  
 
-- [LinkedIn](https://www.linkedin.com/in/anjali-kushwaha-a2a654286)
+---
 
-Thank you for visiting my profile, and feel free to reach out to me!
+## 📊 GitHub Stats  
+
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali7566&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali7566&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anjali7566)  
+
+---
+
+✨ *Thank you for visiting my profile — feel free to connect or collaborate!* ✨
