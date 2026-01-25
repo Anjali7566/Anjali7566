@@ -25,14 +25,9 @@ Welcome to my GitHub profile! I am a passionate developer transitioning from **W
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=Anjali7566&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🐍 My Contribution Snake
-![snake gif](https://github.com/Anjali7566/Anjali7566/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/Anjali7566/Anjali7566/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🏅 Certifications & Badges
@@ -40,6 +35,30 @@ Welcome to my GitHub profile! I am a passionate developer transitioning from **W
 - **Holopin:** [![An image of @anjali7566's Holopin badges](https://holopin.me/anjali7566)](https://holopin.io/@anjali7566)
 
 ---
+### 📈 My Activity Graph
+[![Anjali's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjali7566&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+### 📊 Language Proficiency
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali7566&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anjali7566&theme=radical)
+
+---
+
+## 📊 Analytics & Insights
+
+| My Contributions | Language Stats |
+| :---: | :---: |
+| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anjali7566&theme=react-dark&area=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali7566&layout=compact&theme=radical&hide=html,css) |
+
+---
+
 
 ## 📊 GitHub Stats
 <p align="left">
