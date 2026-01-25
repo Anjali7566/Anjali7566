@@ -1,5 +1,5 @@
 # Hi there, I'm Anjali! 👋  
-### 📊 Data Analyst | 🦾 Robotics Enthusiast | 🌟 5-Star SQL on HackerRank
+### 📊 Data Analyst | 🌟 5-Star SQL on HackerRank
 
 Welcome to my GitHub profile! I am a passionate developer transitioning from **Web Development** to **Data Engineering & AI**. My goal is to build intelligent data pipelines that power future Robotics.
 
@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I am a passionate developer transitioning from **W
 Watch a quick demo of my Uber Trip Data Analysis project, showcasing data cleaning, feature engineering, and key visualizations.
 
 [![Uber Trip Analysis Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID_HERE/0.jpg)](YOUR_YOUTUBE_LINK_HERE)
-*(Replace `YOUR_YOUTUBE_VIDEO_ID_HERE` with your actual YouTube video ID and `YOUR_YOUTUBE_LINK_HERE` with the full video URL.)*
 
 ---
 
