@@ -74,11 +74,11 @@ Watch a quick demo of my Uber Trip Data Analysis project, showcasing data cleani
     </tr>
   </table>
 </div>
----
+
 
 ## 🏅 Certifications & Badges
-- **HackerRank:** 5-Star SQL Gold Badge 🌟 [View Profile](https://www.hackerrank.com/profile/anjukushwaha9131)
-- **HackerRank Skill Badge:** <a href="https://www.hackerrank.com/profile/anjukushwaha9131">
+
+- **HackerRank Skill Badge:**   <a href="https://www.hackerrank.com/profile/anjukushwaha9131">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
   </a>
   
