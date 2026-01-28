@@ -53,21 +53,27 @@ Watch a quick demo of my Uber Trip Data Analysis project, showcasing data cleani
 ## 🏆 Achievements & Stats
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali7566&theme=radical" alt="GitHub Streak" />
-
 </p>
 
-<p align="center">
-
-| GitHub Stats | Trophies |
-
-| :---: | :---: |
-
-| ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali7566&show_icons=true&theme=radical) | [![trophies](https://github-profile-trophy.vercel.app/?username=Anjali7566&theme=radical&column=3)](https://github.com/ryo-ma/github-profile-trophy) |
-
-</p>
-
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <th align="center">📊 GitHub Stats</th>
+      <th align="center">🏆 Trophies</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Anjali7566&show_icons=true&theme=radical" alt="Anjali's GitHub stats" />
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=Anjali7566&theme=radical&column=2&margin-w=15" alt="Trophies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🏅 Certifications & Badges
