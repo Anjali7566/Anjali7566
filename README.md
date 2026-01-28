@@ -53,28 +53,29 @@ Watch a quick demo of my Uber Trip Data Analysis project, showcasing data cleani
 ## 🏆 Achievements & Stats
 
 <p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali7566&theme=radical" alt="GitHub Streak" />
+
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=anjali7566&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Anjali7566&theme=radical&column=3" alt="Trophies" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+
+| GitHub Stats | Trophies |
+
+| :---: | :---: |
+
+| ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjali7566&show_icons=true&theme=radical) | [![trophies](https://github-profile-trophy.vercel.app/?username=Anjali7566&theme=radical&column=3)](https://github.com/ryo-ma/github-profile-trophy) |
+
+</p>
+
+---
 
 ## 🏅 Certifications & Badges
 - **HackerRank:** 5-Star SQL Gold Badge 🌟 [View Profile](https://www.hackerrank.com/profile/anjukushwaha9131)
 - **HackerRank Skill Badge:** <a href="https://www.hackerrank.com/profile/anjukushwaha9131">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
   </a>
-- **Holopin:** [![Holopin badges](https://holopin.me/anjali7566)](https://holopin.io/@anjali7566)
+  
 - **Holopin:** [![Holopin badges](https://holopin.me/anjali7566)](https://holopin.io/@anjali7566)
 
 ---
