@@ -1,8 +1,7 @@
-# Hi there, I'm Anjali! 👋  
+# Hi there, I'm Anjali! 👋
+<img align="right" src="https://github.com/user-attachments/assets/910c6e0d-c214-48c2-bff9-66ca0d6d9645" width="180" height="180" style="border-radius: 50%;">
+
 ### 📊 Data Analyst | 🌟 5-Star SQL on HackerRank
-
-<img align="right" src="https://github.com/user-attachments/assets/910c6e0d-c214-48c2-bff9-66ca0d6d9645" width="150" height="150" style="border-radius: 50%;">
-
 Welcome to my GitHub profile! I am a passionate developer transitioning from **Web Development** to **Data Engineering & AI**. My goal is to build intelligent data pipelines that power future Robotics.
 
 ---
